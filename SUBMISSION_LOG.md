@@ -16,11 +16,11 @@ https://github.com/markrodney34/BOSC-Community-Library
 
 | Issue | Type | Branch | Pull Request | Status | Evidence |
 |---|---|---|---|---|---|
-| #2 | Functional bug | `fix/broken-links-resources-index` | Add PR link | Closed | Add screenshot |
-| #3 | Functional bug | `fix/docs-overview-metadata` | Add PR link | Closed | Add screenshot |
-| #4 | Feature enhancement | `feature/localized-resources` | https://github.com/markrodney34/BOSC-Community-Library/pull/4 | Closed | Done |
-| #5 | Feature enhancement | `feature/resource-database` | https://github.com/markrodney34/BOSC-Community-Library/pull/5 | Closed | Done |
-| #6 | Refactoring/maintenance | `maintenance/repository-organization` | https://github.com/markrodney34/BOSC-Community-Library/pull/6 | Closed | Done |
+| #1 | Functional bug | `fix/broken-links-resources-index` | https://github.com/markrodney34/BOSC-Community-Library/pull/1 | Closed | Done |
+| #2 | Functional bug | `fix/docs-overview-metadata` | https://github.com/markrodney34/BOSC-Community-Library/pull/2 | Closed | Done |
+| #3 | Feature enhancement | `feature/localized-resources` | https://github.com/markrodney34/BOSC-Community-Library/pull/3 | Closed | Done |
+| #4 | Feature enhancement | `feature/resource-database` | https://github.com/markrodney34/BOSC-Community-Library/pull/4 | Closed | Done |
+| #5 | Refactoring/maintenance | `maintenance/repository-organization` | https://github.com/markrodney34/BOSC-Community-Library/pull/5 | Closed | Done |
 
 ## Reflective Journal
 
