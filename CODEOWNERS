@@ -1,0 +1,7 @@
+# Default maintainers for repository-wide review.
+* @markrodney34
+
+# Documentation and resource changes require maintainer review.
+/docs/ @markrodney34
+/resources/ @markrodney34
+/*.md @markrodney34

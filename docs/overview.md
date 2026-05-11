@@ -14,7 +14,7 @@
 | **Project Name**   | BOSC Community Library                                |
 | **Status**         | Active — Accepting Contributions                      |
 | **License**        | Apache License 2.0                                    |
-| **Current Version**| v1.2.0                                                |
+| **Current Version**| v1.3.0                                                |
 | **Maintained By**  | BOSC Community Maintainers                            |
 | **Primary Contact**| Open an [issue](../.github/ISSUE_TEMPLATE/bug_report.md) for all queries |
 | **Repository**     | https://github.com/markrodney34/BOSC-Community-Library |
@@ -59,7 +59,10 @@ BOSC-Community-Library/
 │   ├── ISSUE_TEMPLATE/         # Standardized issue templates
 │   └── PULL_REQUEST_TEMPLATE.md
 ├── docs/                       # Project documentation
-│   └── overview.md             # This file
+│   ├── overview.md             # This file
+│   ├── GOVERNMENT_PROPOSAL.md   # Public sector adoption strategy
+│   ├── LEGAL_ANALYSIS.md        # Apache 2.0 license rationale
+│   └── SUSTAINABILITY.md        # Funding and sustainability strategy
 ├── resources/                  # Curated resource index
 │   ├── index.md                # Human-readable resource list
 │   ├── database.json           # Machine-readable resource database
@@ -70,8 +73,6 @@ BOSC-Community-Library/
 ├── src/                        # Source scaffolding
 ├── CODE_OF_CONDUCT.md          # Community behavior standards
 ├── CONTRIBUTING.md             # Contributor technical guide
-├── LEGAL_ANALYSIS.md           # Apache 2.0 license rationale
-├── SUSTAINABILITY.md           # Funding and sustainability strategy
 ├── CHANGELOG.md                # Version history
 ├── CODEOWNERS                  # Automated review assignments
 ├── LICENSE                     # Apache License 2.0 (full text)
@@ -84,6 +85,7 @@ BOSC-Community-Library/
 
 | Version | Date         | Summary of Changes                                      |
 |---------|--------------|---------------------------------------------------------|
+| v1.3.0  | May 11, 2026 | CI: Link validation added; Feature: 5-language support |
 | v1.2.0  | May 11, 2026 | Refactor: CI readiness, CHANGELOG, CODEOWNERS added    |
 | v1.1.0  | May 11, 2026 | Feature: Localized resources + JSON database            |
 | v1.0.1  | May 11, 2026 | Fix: Broken links audited, metadata fields added        |
@@ -97,7 +99,7 @@ BOSC-Community-Library/
 |-----------------------|-------------------------------------------------------|
 | Lead Maintainer       | Open a GitHub Issue (response within 48 hours)        |
 | Community Moderator   | Use the [Code of Conduct](../CODE_OF_CONDUCT.md) reporting channel |
-| Legal Queries         | Reference [LEGAL_ANALYSIS.md](../LEGAL_ANALYSIS.md)  |
+| Legal Queries         | Reference [LEGAL_ANALYSIS.md](LEGAL_ANALYSIS.md)  |
 
 > **Note:** This project is community-governed. All decisions are made transparently through public issues and pull requests. There are no private communication channels for project decisions.
 
@@ -106,8 +108,8 @@ BOSC-Community-Library/
 ## Roadmap
 
 ### Near-Term (Q2 2026)
-- [ ] Add GitHub Actions CI pipeline for link validation
-- [ ] Expand localized resources to 5 languages
+- [x] Add GitHub Actions CI pipeline for link validation
+- [x] Expand localized resources to 5 languages
 - [ ] Publish project to the Open Source Collective for funding
 
 ### Mid-Term (Q3 2026)

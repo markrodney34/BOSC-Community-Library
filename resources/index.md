@@ -45,6 +45,13 @@ This is the master index of all resources available in the BOSC Community Librar
 - [OWASP Open Source Security Guide](https://owasp.org/www-project-open-source-software-top-10/) — Security risks specific to open source components ✅
 - [Dependabot Documentation](https://docs.github.com/en/code-security/dependabot) — Automated dependency security updates ✅
 
+### 🌍 Localized Resources
+- [BOSC Community Library — Kiswahili](localized/swahili.md) ✅
+- [BOSC Community Library — Français](localized/french.md) ✅
+- [BOSC Community Library — Português](localized/portuguese.md) ✅
+- [BOSC Community Library — Español](localized/spanish.md) ✅
+- [BOSC Community Library — العربية](localized/arabic.md) ✅
+
 ---
 
 ## Deprecated / Removed Links

@@ -1,0 +1,62 @@
+{
+  "project": "BOSC Community Library",
+  "last_updated": "2026-05-11",
+  "resources": [
+    {
+      "title": "The Cathedral and the Bazaar",
+      "category": "open-source-foundations",
+      "url": "https://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "Producing Open Source Software",
+      "category": "open-source-foundations",
+      "url": "https://producingoss.com/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "Choose A License",
+      "category": "licensing",
+      "url": "https://choosealicense.com/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "SPDX License List",
+      "category": "licensing",
+      "url": "https://spdx.org/licenses/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "GitHub Docs",
+      "category": "developer-tools",
+      "url": "https://docs.github.com/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "Open Source Guide",
+      "category": "community-governance",
+      "url": "https://opensource.guide/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "CHAOSS Metrics",
+      "category": "community-governance",
+      "url": "https://chaoss.community/",
+      "language": "en",
+      "access": "free"
+    },
+    {
+      "title": "OpenSSF Best Practices Badge",
+      "category": "security-compliance",
+      "url": "https://bestpractices.coreinfrastructure.org/",
+      "language": "en",
+      "access": "free"
+    }
+  ]
+}
